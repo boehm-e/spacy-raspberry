@@ -13,3 +13,6 @@ This is a 64bit Raspberry Pi image with spacy and neuralcoref pre-installed.
 -  use Etcher to write the image to your microSD
 
 ![](imgs/etcher.png)
+
+# credit
+this image is based on [bamarni/pi64](https://github.com/bamarni/pi64)
